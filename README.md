@@ -1,2 +1,2 @@
-# External-Metadata-DB
-External metadata repository
+# External-Data-DBs
+External Data repositories
